@@ -6,7 +6,7 @@
   "background_color": "#09943d",
   "theme_color": "#09943d",
   "description": "Gaipa is a global farmer empowerment community equipping farmers to create self-determined and sustainable livelihoods.",
-  ​​"orientation": "portrait",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "static/homescreen48.png",
