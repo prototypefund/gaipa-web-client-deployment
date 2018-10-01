@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.57cf7e2b179987efca2703a85579dc95.js", "/workbox-v3.4.1/workbox-sw.js");
+importScripts("/precache-manifest.42764a85cce075ad8d566c632c842571.js", "/workbox-v3.4.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/workbox-v3.4.1"});
 
 if (workbox) {
